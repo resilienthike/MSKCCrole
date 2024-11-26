@@ -7,4 +7,7 @@ anndata
 scipy
 scikit-learn
 umap-learn
+time
+anndata
+matplotlib.pyplot
 -e .
