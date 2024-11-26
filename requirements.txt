@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+scanpy
+squidpy
+anndata
+scipy
+scikit-learn
+umap-learn
+-e .
